@@ -1,2 +1,1 @@
-# gpp.2.24-windows
-Windows build of General Purpose Preprocessor  2.24
+[General purpose preprocessor](http://en.nothingisreal.com/wiki/GPP) is much like C preprocessor but independent of file type. GPP is not actively maintained, but it works. Its home page hosts binaries for various *nix systems, but no windows build. Few years back I’ve found [windows build at wichers.nu](http://labs.wichers.nu/2007/12/19/simple-actionscript-preprocessor/), but this link is dead now, and it looks like GPP windows build is not available anywhere else. So to fix this problem, I uploaded GPP windows build copy to google code, but now it shut down, so I have to reupload it somewhwere... hello GitHub!
